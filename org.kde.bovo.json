@@ -19,8 +19,8 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/release-service/20.12.2/src/libkdegames-20.12.2.tar.xz",
-                    "sha256": "19d93fe25f1ea5173d5130b2d270038b26e6cc6f09238724f330d05fbe019439"
+                    "url": "https://download.kde.org/stable/release-service/20.12.3/src/libkdegames-20.12.3.tar.xz",
+                    "sha256": "401b919640eea95ec8feab1ce0914db2750fafc19893c424eed8ea37e5e216d1"
                 } 
             ]
         },
@@ -30,8 +30,8 @@
             "sources": [
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/release-service/20.12.2/src/bovo-20.12.2.tar.xz",
-                    "sha256": "671d22db93c2af5d1e8208183ebcbd8d8b5c3f0fdd76070902b56b8c7308bd17"
+                    "url": "https://download.kde.org/stable/release-service/20.12.3/src/bovo-20.12.3.tar.xz",
+                    "sha256": "bb845496ed0f1d783846918c52faab9e38eae373c2ba7f4a4a2e657994c09984"
                 },
                 {
                     "type": "patch",
