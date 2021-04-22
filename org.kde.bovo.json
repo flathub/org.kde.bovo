@@ -32,10 +32,6 @@
                     "type": "archive", 
                     "url": "https://download.kde.org/stable/release-service/21.04.0/src/bovo-21.04.0.tar.xz",
                     "sha256": "c32a0afbcd1df30e254bc63014f16e9ccfd59652005f320540e2dbfc274cd3cc"
-                },
-                {
-                    "type": "patch",
-                    "path": "appdata.patch"
                 }               
             ]
         }
