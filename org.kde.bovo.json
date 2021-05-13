@@ -19,8 +19,13 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/release-service/21.04.0/src/libkdegames-21.04.0.tar.xz",
-                    "sha256": "4766ce2c73a17b05a7a79c326edaa2c29718719218f48d7ea7543f31f02415e0"
+<<<<<<< HEAD
+                    "url": "https://download.kde.org/stable/release-service/21.04.1/src/libkdegames-21.04.1.tar.xz",
+                    "sha256": "a4efc0caf9ad877b3c01c83c69e9b3240aeda6ab14332db06e2da9f6660b4c93"
+=======
+                    "url": "https://download.kde.org/stable/release-service/21.04.1/src/libkdegames-21.04.1.tar.xz",
+                    "sha256": "a4efc0caf9ad877b3c01c83c69e9b3240aeda6ab14332db06e2da9f6660b4c93"
+>>>>>>> upstream/master
                 } 
             ]
         },
@@ -30,12 +35,17 @@
             "sources": [
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/release-service/21.04.0/src/bovo-21.04.0.tar.xz",
-                    "sha256": "c32a0afbcd1df30e254bc63014f16e9ccfd59652005f320540e2dbfc274cd3cc"
+<<<<<<< HEAD
+                    "url": "https://download.kde.org/stable/release-service/21.04.1/src/bovo-21.04.1.tar.xz",
+                    "sha256": "602422628f3237bf41bd40d2c14c316bf1185f3396d668a521c39b6909b459d9"
                 },
                 {
                     "type": "patch",
                     "path": "appdata.patch"
+=======
+                    "url": "https://download.kde.org/stable/release-service/21.04.1/src/bovo-21.04.1.tar.xz",
+                    "sha256": "602422628f3237bf41bd40d2c14c316bf1185f3396d668a521c39b6909b459d9"
+>>>>>>> upstream/master
                 }               
             ]
         }
