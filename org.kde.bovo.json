@@ -19,8 +19,8 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/release-service/21.04.3/src/libkdegames-21.04.3.tar.xz",
-                    "sha256": "779778724891e6f4228b02fd246c5948968d1562adae1708ac69cf8f548ee605"
+                    "url": "https://download.kde.org/stable/release-service/21.08.0/src/libkdegames-21.08.0.tar.xz",
+                    "sha256": "2b55f9e2858cfeabfe8d1a8f3772bb0df88f583c65b4a4e3b0dc2a8db6ac7159"
                 } 
             ]
         },
@@ -30,8 +30,8 @@
             "sources": [
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/release-service/21.04.3/src/bovo-21.04.3.tar.xz",
-                    "sha256": "aa9927af7f8f98f2e56eebe9eac73c06adc62e598a1300be210e962e878deae1"
+                    "url": "https://download.kde.org/stable/release-service/21.08.0/src/bovo-21.08.0.tar.xz",
+                    "sha256": "190a9b2244de7bf4df2602b8cd58acb2c1c83cfd9a28bc34082a0ec11970f825"
                 }               
             ]
         }
