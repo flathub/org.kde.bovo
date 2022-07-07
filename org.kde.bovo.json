@@ -19,8 +19,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/22.04.2/src/libkdegames-22.04.2.tar.xz",
-                    "sha256": "c33af6c13540add132122b36b2faabc1f0beaf2c06d29e575f7789f1c5342911",
+                    "url": "https://download.kde.org/stable/release-service/22.04.3/src/libkdegames-22.04.3.tar.xz",
+                    "sha256": "f6af5b98c6f5a4061b5124d04e5cf0c2cc9e21df93824559153d5565d541f845",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
@@ -36,8 +36,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/22.04.2/src/bovo-22.04.2.tar.xz",
-                    "sha256": "cd8398c398b9bcbe0e791911ef25f0c23950adc515f60bf8be991bfa425a4057",
+                    "url": "https://download.kde.org/stable/release-service/22.04.3/src/bovo-22.04.3.tar.xz",
+                    "sha256": "770839fc868acac22a162d20a81a55100df71a9df846d7fd29b7525adde9e4fb",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
