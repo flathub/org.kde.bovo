@@ -36,8 +36,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/22.08.0/src/bovo-22.08.0.tar.xz",
-                    "sha256": "c771b6b491d86769532ad21b0fb3dcd3532e5690bc0e6e92341880c441e23435",
+                    "url": "https://download.kde.org/stable/release-service/22.08.1/src/bovo-22.08.1.tar.xz",
+                    "sha256": "f9db2ef6259a58379611aa35661721f8a5d6c431809bb8ded954c4a47b5e38e4",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
