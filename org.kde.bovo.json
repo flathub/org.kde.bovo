@@ -19,8 +19,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/24.08.1/src/libkdegames-24.08.1.tar.xz",
-                    "sha256": "48b2254a6cdf38744b6ef40ff47e4430b92633bb2003030aed8edfd497414fc2",
+                    "url": "https://download.kde.org/stable/release-service/24.08.2/src/libkdegames-24.08.2.tar.xz",
+                    "sha256": "ea7d92daa7119b8d30c3bc5e8200992ad20b76092e5896501cb8782617478042",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
@@ -36,8 +36,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/24.08.1/src/bovo-24.08.1.tar.xz",
-                    "sha256": "b5ba2a31fec9218a871875f7510a6405eaa974cd542053c9106a308b0bacbf2e",
+                    "url": "https://download.kde.org/stable/release-service/24.08.2/src/bovo-24.08.2.tar.xz",
+                    "sha256": "91b024ef4bfdb97c70637236870492d4ac425d48c81f5b886a765ec446c7c7ab",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
